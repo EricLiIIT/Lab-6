@@ -21,7 +21,6 @@
 #sidebar-container ul {
     list-style-type: none;
     padding: 0;
-    display: block;
     background-color: #4943ff;
 }
 
@@ -30,4 +29,5 @@
     padding: 15px 0;
     color: #78ffce;
     text-decoration: none;
+    display: block;
 }
