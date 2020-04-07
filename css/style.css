@@ -1,14 +1,42 @@
+/*Style for Main Navigation Bar*/
+
 #main-navbar {
     background-color: blue;
+    overflow: hidden;
+    float: left;
+    width: 100%;
 }
 
-#navbar-container {}
+#navbar-container {
+    background-color: #acff9d;
+    position: relative;
+}
 
-#navbar-container ul {}
+#navbar-container ul {
+    left: 50%;
+    list-style-type: none;
+}
 
-#navbar-container ul li {}
+#navbar-container ul li {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+    display: block;
+    text-decoration: none;
+}
 
-#navbar-container ul li a {}
+#navbar-container ul li a {
+    right: 50%;
+    float: left;
+    display: block;
+    padding: 10px 20px;
+    color: #ff7f83;
+    text-decoration: underline overline;
+}
+
+
+/*Style for Sidebar*/
 
 #sidebar {
     position: fixed;
