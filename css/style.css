@@ -30,8 +30,8 @@
 #navbar-container ul li a {
     display: block;
     padding: 10px 20px;
-    color: #ff7f83;
-    background-color: #78ffce;
+    color: #fff;
+    background-color: #000;
     text-decoration: underline overline;
 }
 
@@ -49,13 +49,13 @@
 #sidebar-container ul {
     list-style-type: none;
     padding: 0;
-    background-color: #4943ff;
 }
 
 #sidebar-container ul li a {
     text-align: center;
     padding: 15px 0;
-    color: #78ffce;
+    color: #fff;
+    background-color: #000;
     text-decoration: none;
     display: block;
 }
