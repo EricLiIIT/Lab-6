@@ -1,0 +1,33 @@
+#main-navbar {
+    background-color: blue;
+}
+
+#navbar-container {}
+
+#navbar-container ul {}
+
+#navbar-container ul li {}
+
+#navbar-container ul li a {}
+
+#sidebar {
+    position: fixed;
+    right: 0%;
+    background-color: red;
+    height: 100%;
+    width: 20%;
+}
+
+#sidebar-container ul {
+    list-style-type: none;
+    padding: 0;
+    display: block;
+    background-color: #4943ff;
+}
+
+#sidebar-container ul li a {
+    text-align: center;
+    padding: 15px 0;
+    color: #78ffce;
+    text-decoration: none;
+}
